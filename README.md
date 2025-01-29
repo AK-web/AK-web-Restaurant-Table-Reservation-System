@@ -32,11 +32,11 @@ The server will start on `http://localhost:3000`.
 
 ## 📌 API Endpoints
 
-**POST** `http://localhost:3000/api/reservations/reserve`
-**GET** `http://localhost:3000/api/reservations/user/:email`
-**GET** `http://localhost:3000/api/reservations/all`
-**DELETE** `http://localhost:3000/api/reservations/cancel`
-**PUT** `http://localhost:3000/api/reservations/modify`
+**POST** `http://localhost:3000/api/reservations/reserve`  
+**GET** `http://localhost:3000/api/reservations/user/:email`  
+**GET** `http://localhost:3000/api/reservations/all`  
+**DELETE** `http://localhost:3000/api/reservations/cancel`  
+**PUT** `http://localhost:3000/api/reservations/modify`  
 
 ---
 
